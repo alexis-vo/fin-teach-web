@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  color: #4CAF50;
+  text-align: center;
+}
+
+p {
+  font-size: 1.2em;
+  text-align: center;
+}
