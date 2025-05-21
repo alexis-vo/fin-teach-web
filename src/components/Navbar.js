@@ -27,7 +27,6 @@ function Navbar() {
             <li><Link to="/lesson-crr" onClick={() => setIsOpen(false)}>Cox-Ross-Rubinstein</Link></li>
           </ul>
         </li>
-        <li><Link to="/mindmaps" onClick={() => setIsOpen(false)}>Mindmaps</Link></li>
         <li><Link to="/about" onClick={() => setIsOpen(false)}>About</Link></li>
       </ul>
       
